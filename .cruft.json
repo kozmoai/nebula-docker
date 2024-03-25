@@ -1,0 +1,20 @@
+{
+  "template": "https://github.com/kozmoai/nebula-collection-template",
+  "commit": "e3d7ae506a6c84fdb78d2e74177833d625d72198",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "full_name": "Kozmoai, Inc.",
+      "email": "help@kozmoai.org",
+      "github_organization": "kozmoai",
+      "collection_name": "nebula-docker",
+      "collection_slug": "nebula_docker",
+      "collection_short_description": "Nebula integrations for working with Docker",
+      "_copy_without_render": [
+        ".github/workflows/*.yml"
+      ],
+      "_template": "https://github.com/kozmoai/nebula-collection-template"
+    }
+  },
+  "directory": null
+}
